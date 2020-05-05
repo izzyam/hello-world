@@ -1,17 +1,9 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+<!DOCTYPE html>
+<html>
+<body>
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+<img src="https://thisisanactualwebsite.s3-us-west-1.amazonaws.com/unit-circle7_43215_lg.gif">
+
+</body>
+</html>
